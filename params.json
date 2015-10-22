@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"name":"Blog","tagline":"This is a little static web site build by 一叶枫情","body":"## Hello","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+=======
+{"name":"Blog","tagline":"一叶枫情的小屋","body":"### Welcome to GitHub Pages.\r\n### **一叶枫情的小黑屋**\r\n测试...\r\n","google":"一叶枫情 on github","note":"Don't delete this file! It's used internally to help with page regeneration."}
+>>>>>>> master

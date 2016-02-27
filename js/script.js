@@ -1,5 +1,1 @@
-require([], function() {
-
-  alert('lazy ...');
-
-});
+require([],function(){alert("lazy ...")});

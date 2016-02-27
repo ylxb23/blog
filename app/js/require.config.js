@@ -1,12 +1,14 @@
-requirejs.config({
+require.config({
 	baseUrl: './js/',
 	paths:{
-		'$': 'jquery-2.1.4.min',
-		'angular': 'angular.min',
-		'my': 'script.min'
+		'$': 'libs/jquery-2.1.4',
+		'ng': 'libs/angular',
+	},
+	shim: {
+
 	}
 });
 
-requirejs(['$', 'angular', 'my'], function() {
+require(['$', 'ng'], function($, ng) {
 	console.log('requirejs load successful...');
 });

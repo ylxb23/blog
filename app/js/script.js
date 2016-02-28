@@ -1,4 +1,4 @@
 require([], function() {
 
-  alert('lazy ...');
+  console.log('lazy ...');
 });
